@@ -1,4 +1,4 @@
-# 👋 Hola, soy Axel Valle Quispe
+#  Hola, soy Axel Valle Quispe
 
 ### Estudiante de Big Data y Ciencia de Datos | Data Analytics | Python | SQL
 
@@ -168,5 +168,5 @@ Busco seguir desarrollándome en **Data Analytics, Data Science, Big Data e Inge
 
 ##  Contacto
 
-- LinkedIn: www.linkedin.com/in/axel-aldair-ayrton-valle-quispe-b0722b377
+- LinkedIn: [www.linkedin.com/in/axel-aldair-ayrton-valle-quispe-b0722b377](https://www.linkedin.com/in/axel-aldair-ayrton-valle-quispe-b0722b377)
 - Email: Axelvalle2001_360@hotmail.com
