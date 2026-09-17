@@ -168,5 +168,5 @@ Busco seguir desarrollándome en **Data Analytics, Data Science, Big Data e Inge
 
 ##  Contacto
 
-- LinkedIn: 
-- Email: 
+- LinkedIn: www.linkedin.com/in/axel-aldair-ayrton-valle-quispe-b0722b377
+- Email: Axelvalle2001_360@hotmail.com
