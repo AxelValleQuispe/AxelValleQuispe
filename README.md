@@ -10,14 +10,14 @@ He desarrollado proyectos académicos y experiencias prácticas relacionadas con
 
 ---
 
-## 🎓 Formación
+##  Formación
 
 - **TECSUP** — Big Data y Ciencia de Datos
 - **Universidad Nacional de Ingeniería (UNI)** — Ciencias de la Computación
 
 ---
 
-## 💼 Experiencia
+##  Experiencia
 
 ### Automatización y análisis de datos — Telecomunicaciones
 
@@ -47,7 +47,7 @@ Desarrollo de un flujo para automatizar la recopilación y organización de info
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 ### Lenguajes
 
@@ -84,9 +84,9 @@ Desarrollo de un flujo para automatizar la recopilación y organización de info
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
-### 📡 TELCO ANALYTICS — Predicción de Churn
+###  TELCO ANALYTICS — Predicción de Churn
 
 Proyecto de análisis de datos y Machine Learning orientado a identificar clientes con probabilidad de churn en un escenario de telecomunicaciones.
 
@@ -104,7 +104,7 @@ Proyecto de análisis de datos y Machine Learning orientado a identificar client
 
 🔗 [Ver proyecto](https://github.com/AxelValleQuispe/TELCO_ANALYTICS)
 
-### 🌐 FTTH DATA ANALYSIS
+###  FTTH DATA ANALYSIS
 
 Proyecto de análisis y procesamiento de información operativa de redes FTTH/GPON utilizando datos ficticios.
 
@@ -121,7 +121,7 @@ Proyecto de análisis y procesamiento de información operativa de redes FTTH/GP
 
 🔗 [Ver proyecto](https://github.com/AxelValleQuispe/AxelValleQuispe-FTTH-DATA-ANALYSIS)
 
-### 📊 SALES DATA AUTOMATION
+###  SALES DATA AUTOMATION
 
 Proyecto de automatización y análisis de información comercial utilizando datos ficticios.
 
@@ -138,7 +138,7 @@ Proyecto de automatización y análisis de información comercial utilizando dat
 
 🔗 [Ver proyecto](https://github.com/AxelValleQuispe/SALES-DATA-AUTOMATION)
 
-### 📈 PI-02 Data Analyst
+###  PI-02 Data Analyst
 
 Proyecto de análisis de datos enfocado en el estudio de información relacionada con siniestros viales y generación de insights.
 
@@ -146,7 +146,7 @@ Proyecto de análisis de datos enfocado en el estudio de información relacionad
 
 ---
 
-## 📚 Actualmente desarrollando conocimientos en
+##  Actualmente desarrollando conocimientos en
 
 - Data Analytics
 - Big Data
@@ -160,13 +160,13 @@ Proyecto de análisis de datos enfocado en el estudio de información relacionad
 
 ---
 
-## 🎯 Objetivo profesional
+##  Objetivo profesional
 
 Busco seguir desarrollándome en **Data Analytics, Data Science, Big Data e Ingeniería de Datos**, participando en proyectos donde pueda aplicar programación, análisis y tecnologías de datos para resolver problemas reales.
 
 ---
 
-## 📫 Contacto
+##  Contacto
 
 - LinkedIn: 
 - Email: 
