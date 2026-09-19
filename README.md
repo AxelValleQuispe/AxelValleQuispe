@@ -129,7 +129,6 @@ Proyecto de automatización y análisis de información comercial utilizando dat
 
 **Características principales:**
 
-- Generación de datos ficticios.
 - Limpieza y transformación de información.
 - Análisis mensual y anual.
 - Análisis por cliente, producto y servicio.
