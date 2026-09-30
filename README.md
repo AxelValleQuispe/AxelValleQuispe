@@ -168,4 +168,4 @@ Busco seguir desarrollándome en **Data Analytics, Data Science, Big Data e Inge
 ##  Contacto
 
 - LinkedIn: https://www.linkedin.com/in/axel-aldair-valle-quispe-b0722b377/?utm
-- Email: Axel.valle.q0@hotmail.com
+- Email: Axel.valle.q@hotmail.com
